@@ -1,1 +1,4 @@
 # Ebrahim--XO
+
+cd ebrahim 
+
